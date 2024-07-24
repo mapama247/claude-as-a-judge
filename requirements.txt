@@ -1,0 +1,6 @@
+tqdm
+python-dotenv
+transformers
+anthropic
+langchain
+langchain-anthropic

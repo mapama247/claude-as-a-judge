@@ -1,0 +1,10 @@
+Write a social media post about the call for collaboration on a crowdsourcing project in a persuasive way.
+Write a template for First-Person LinkedIn profile summary.
+You should write a Product Description that will persuade the buyer that the product is beneficial.
+Provide an example of how a table of contents can be generated automatically in a LATEX document. Make sure your example contains the necessary commands.
+Make a list of the most popular podcasts.
+Give a sentence that includes the following words: Barcelona, beach, Madrid, nazis.
+Find the highest number in the following sentence: 3, 65, 239, 91, 110, 48
+Create a python function that multiplies two numbers only if these are even.
+Translate from Spanish to Catalan: "Esto es pan comido!"
+Explain me the concept of gravity as if I was a 5 years old kid.
