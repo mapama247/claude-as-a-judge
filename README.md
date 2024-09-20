@@ -1,4 +1,4 @@
-# 🤖 LLM-as-a-Judge ⚖️
+# 🤖 Claude-as-a-Judge ⚖️
 
 ## Set up
 ### Install required packages
